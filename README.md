@@ -41,11 +41,11 @@ Sitios De Referencia
 
 ➲ https://www.tripadvisor.com/ = Nos sirvio de ayuda para definir el carrito de compras.
 
-➲ https://www.visitfinland.com/en/ = Esta página nos inspiro para formar parte del body, tanto como su banner y su estilo de preguntas en el FAQ.
+➲ https://www.visitfinland.com/en/ = Esta página nos inspiro para crear parte del body, como su banner y su estilo de preguntas en el FAQ.
 
 ➲ https://tourpartnergroup.com/ = Nos gusto la ubicación del logo con el diseño del head.
 
-➲ https://es.luxtraveldmc.com/ = Dentro de su body nos cautivo los apquetes del bodyy su slider.
+➲ https://es.luxtraveldmc.com/ = Dentro de su body nos cautivaron los paquetes del body su slider.
 
 
 Equipo
