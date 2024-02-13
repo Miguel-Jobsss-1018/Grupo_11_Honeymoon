@@ -1,0 +1,15 @@
+{
+  "name": "grupo_11_honeymoon",
+  "version": "1.0.0",
+  "description": "Temática Del E-Commerce\r -----------------------------------------------------------------------------------------------\r Bienvenidos a Honeymoon!\r Descubre el mundo con nosotros, ideal para todo tipo de experiencias y viajes inolvidables. \r Sumérgete en la emoción de explorar nuevos horizontes mientras nosotros nos encargamos de hacer que cada detalle de tu viaje sea memorable.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
