@@ -61,7 +61,7 @@ Equipo
 
 • Mariano Xinos
 
-• Miguel Job Martinez Allende
+• Miguel Job Martínez Allende
 
 • Tobias Gomez
 
